@@ -282,6 +282,9 @@ Successfully:
 - Identified high-performing applications
 - Extracted sentiment-based insights
 
+## Output
+![image alt](https://github.com/yashrajmohanty03-ai/Evelance_1/blob/9b65f19eb7d890aab496a22d1c49ca3b1a5b4efc/ev1.jpeg)
+
 ## Conclusion
 
 This project demonstrates how data analytics and visualization techniques can be used to uncover valuable insights from app marketplace data. By combining application metrics with user sentiment information, developers and businesses can better understand factors influencing app success.
